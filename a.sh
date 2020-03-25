@@ -9,3 +9,4 @@
 
 read -p "install: " cmd
 sudo apt install $cmd
+echo "Finished"
